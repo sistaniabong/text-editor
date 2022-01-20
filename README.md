@@ -69,10 +69,10 @@ Run the following command at the root folder of project:
 npm start
 ```
 
-
 ## Mock Up
 ---
 The following screenshot displays the app:
+![text editor](./assets/text-editor.png)
 
 
 ## Contributing
